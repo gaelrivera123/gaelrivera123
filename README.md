@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Fictional Security Audit (https://github.com/gaelrivera123/LABURL)</b>
+- <b>Security Audit Walkthrough (https://github.com/gaelrivera123/FictionalSecurityAudit/tree/main)</b>
 
 <h2>📝 Certifications </h2>
 
