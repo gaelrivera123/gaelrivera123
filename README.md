@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>[Security Audit Walkthrough](https://github.com/gaelrivera123/FictionalSecurityAudit)</b>
+<b>Cybersecurity Posture Assessment(s)</b>
+- [Security Audit Walkthrough](https://github.com/gaelrivera123/FictionalSecurityAudit)
 
 <h2>📝 Certifications </h2>
 
