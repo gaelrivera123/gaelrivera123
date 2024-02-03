@@ -12,4 +12,4 @@
 
 [<img align="left" alt="GaelRivera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/gael-rivera-3050a92b0/
+[linkedin]: https://www.linkedin.com/in/gaelrivera1/
