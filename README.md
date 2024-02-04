@@ -5,6 +5,10 @@
 <b>Cybersecurity Posture Assessment(s)</b>
 - [Security Audit Walkthrough](https://github.com/gaelrivera123/FictionalSecurityAudit)
 
+<b>Malware Analysis Lab</b>
+- [Creating the Virtual Machine(s)](
+- [Installing and Analysis the Malware](
+
 <h2>📝 Certifications </h2>
 
 
