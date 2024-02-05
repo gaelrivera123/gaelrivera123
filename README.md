@@ -6,7 +6,7 @@
 - [Security Audit Walkthrough](https://github.com/gaelrivera123/FictionalSecurityAudit)
 
 <b>Malware Analysis Lab</b>
-- Creating the Virtual Machine(s)
+- [Creating the Virtual Machine(s)](https://github.com/gaelrivera123/MalwareAnalysisLab/tree/main)
 - Installing and Analysis the Malware
 
 <h2>📝 Certifications </h2>
