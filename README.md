@@ -7,13 +7,13 @@
 
 <b>Malware Analysis</b>
 - [Creating the Malware Analysis Lab](https://github.com/gaelrivera123/MalwareAnalysisLab/tree/main)
-- Analyzing the malware
+- Analyzing the Malware
 
 <h2>📝 Certifications </h2>
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="GaelRivera | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GaelRivera | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/gaelrivera1/
