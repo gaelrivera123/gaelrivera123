@@ -12,7 +12,6 @@
 <h2>📝 Certifications</h2>
 
 - Google Cybersecurity Professional Certificate (ONGOING)
-- University of Michigan: Python for Everybody (ONGOING)
 
 
 <h2> 🤳 Connect with me:</h2>
