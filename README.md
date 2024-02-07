@@ -9,9 +9,10 @@
 - [Creating the Malware Analysis Lab](https://github.com/gaelrivera123/MalwareAnalysisLab/tree/main)
 - [Analyzing the Malware](https://github.com/gaelrivera123/Analyzing-The-Malware/tree/main)
 
-<h2>📝 Certifications</h2>
+<h2>📝Certifications/Certificates</h2>
 
 - Google Cybersecurity Professional Certificate (ONGOING)
+- University of Michigan: Programming for Everybody
 
 
 <h2> 🤳 Connect with me:</h2>
