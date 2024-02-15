@@ -10,6 +10,9 @@
 - [Creating the Malware Analysis Lab](https://github.com/gaelrivera123/MalwareAnalysisLab/tree/main)
 - [Analyzing the Malware](https://github.com/gaelrivera123/Analyzing-The-Malware/tree/main)
 
+<b>Linux</b>
+- [Linux Basics]()
+
 <h2>📝Certifications/Certificates</h2>
 
 - Google Cybersecurity Professional Certification (ONGOING)
