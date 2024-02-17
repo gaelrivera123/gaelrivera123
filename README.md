@@ -11,7 +11,7 @@
 - [Analyzing the Malware](https://github.com/gaelrivera123/Analyzing-The-Malware/tree/main)
 
 <b>Linux</b>
-- [Linux Basics]()
+- [Linux Basics](https://github.com/gaelrivera123/Linux-Basics)
 
 <h2>📝Certifications/Certificates</h2>
 
