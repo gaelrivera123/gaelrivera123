@@ -14,7 +14,7 @@
 - [Linux Basics](https://github.com/gaelrivera123/Linux-Basics)
 
 <b>SQL</b>
-- [SQL Basics]()
+- [SQL Basics](https://github.com/gaelrivera123/SQL-Basics)
 
 <h2>📝Certifications/Certificates</h2>
 
