@@ -13,6 +13,9 @@
 <b>Linux</b>
 - [Linux Basics](https://github.com/gaelrivera123/Linux-Basics)
 
+<b>SQL</b>
+- [SQL Basics]()
+
 <h2>📝Certifications/Certificates</h2>
 
 - Google Cybersecurity Professional Certification (ONGOING)
