@@ -18,7 +18,7 @@
 
 <h2>📝Certifications/Certificates</h2>
 
-- Google Cybersecurity Professional Certification (ONGOING)
+- [Google Cybersecurity Professional Certification (Jan 2024 - Mar 2024)](https://www.coursera.org/account/accomplishments/specialization/certificate/U582TCH3ZKLC)
 
 
 <h2> 🤳 Connect with me:</h2>
