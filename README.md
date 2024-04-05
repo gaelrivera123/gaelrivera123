@@ -18,7 +18,7 @@
 
 <h2>📝Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate (Jan 2024 - Mar 2024)](https://www.coursera.org/account/accomplishments/professional-cert/U582TCH3ZKLC)
+- [Google Cybersecurity Professional Certificate (Mar 2024)](https://www.coursera.org/account/accomplishments/professional-cert/U582TCH3ZKLC)
 
 
 <h2> 🤳 Connect with me:</h2>
