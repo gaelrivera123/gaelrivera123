@@ -19,6 +19,7 @@
 <h2>📝Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate (Mar 2024)](https://www.coursera.org/account/accomplishments/professional-cert/U582TCH3ZKLC)
+- [CompTIA Security+ Certification](https://www.certmetrics.com/comptia/public/verification.aspx?code=F5JT66J7DQ3LVJCD)
 
 
 <h2> 🤳 Connect with me:</h2>
